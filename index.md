@@ -5,8 +5,11 @@ I am a first year student majoring in **Computer Science** from **UCSD**. I am p
 If you happend to be interested about me as a person, [Click here](#extra-information)
 I don't really have any favorite quotes but here is one:
 > ”A cup of coffee, a cigarette; one single bug, a day to fix.“
+
 Although I don't smoke at all.
+
 Here is the first code I wrote in my life. It happend in the good old days before COVID.
+
 ``` C++
 #include <bits/stdc++.h>
 using namespace std;
