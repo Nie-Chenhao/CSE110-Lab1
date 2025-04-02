@@ -1,6 +1,7 @@
 # Richard's User Page
 ## About me
 ![Me](images/ProfilePic.jpg)
+
 I am a first year student majoring in **Computer Science** from **UCSD**. I am passionate about *everything* in CS. ~~Given these information it is not hard to that tell I am one of the guys waiting to be replaced by LLMs.~~
 If you happend to be interested about me as a person, [Click here](#extra-information)
 I don't really have any favorite quotes but here is one:
